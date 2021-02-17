@@ -1,0 +1,3 @@
+Neither player win: 0
+Player 1 win: 406
+Player 2 win: 594
